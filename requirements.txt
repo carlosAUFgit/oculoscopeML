@@ -1,0 +1,6 @@
+# Dev / simulation dependencies. Real-mode deps (picamera2, gpiozero,
+# tflite-runtime) are installed on the Pi per README - NOT here.
+flask>=3.0
+numpy>=1.26
+opencv-python>=4.9
+pytest>=8.0
